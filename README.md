@@ -1,15 +1,14 @@
 <h2 align="left">Hi 👋! My name is Ruslan and I'm a Fullstack Developer from Kazakhstan.</h2>
 
-###
+### Current Job:
+Spark Studio Co-founder & CTO
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1ngsterr1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ngsterr1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### About Me:
+As a Fullstack developer, I bring to the table an extensive background that spans over two years, during which I've honed my expertise in both web development and web design, thereby providing me with a comprehensive understanding and skill set that encompass the full spectrum of creating, designing, and managing intricate web-based solutions.
 
-###
+### My Tech stack:
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -43,8 +42,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/k1ngsterr1/k1ngsterr1/output/snake.svg" alt="Snake animation" />
-
-###
+![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ngsterr1&show_icons=true&theme=highcontrast)
