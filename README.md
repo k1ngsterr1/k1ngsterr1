@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ruslan and I'm a Fullstack Developer from Kazakhstan.</h2>
 
 ### About Me:
-As a Fullstack developer, I bring to the table an extensive background that spans over two years, during which I've honed my expertise in both web development and web design, thereby providing me with a comprehensive understanding and skill set that encompass the full spectrum of creating, designing, and managing intricate web-based solutions.
+As a Fullstack developer, I bring to the table an extensive background that spans over five years, during which I've honed my expertise in both web development and web design, thereby providing me with a comprehensive understanding and skill set that encompass the full spectrum of creating, designing, and managing intricate web-based solutions.
 
 ### My Tech stack:
 
