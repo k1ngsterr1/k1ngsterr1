@@ -6,11 +6,7 @@ As a Fullstack developer, I bring to the table an extensive background that span
 ### My Tech stack:
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=angular" height="30" alt="astro logo"  />
-      <img width="12" />
-
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
