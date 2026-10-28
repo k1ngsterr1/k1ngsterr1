@@ -13,6 +13,8 @@ As a Fullstack developer, I bring to the table an extensive background that span
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ts" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
