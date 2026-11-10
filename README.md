@@ -40,4 +40,3 @@ As a Fullstack developer, I bring to the table an extensive background that span
 
 ###
 
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1ngsterr1&show_icons=true&theme=highcontrast)
